@@ -1,0 +1,16 @@
+---
+:id: 3286301
+:submitters:
+- :name: Minghao Wang
+  :email: ''
+- :name: Linda Huang
+  :email: ''
+- :name: Cindy Jin
+  :email: ''
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-04-09 21:26:46.193951000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-04-09 14:26:46.193951000 Z
+:status: processed
+:score: 90.0
